@@ -92,8 +92,6 @@ img { -ms-interpolation-mode: bicubic; }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-resolution: 240dpi) { .sandvox_icon_white { background:url(../_Resources/sandvox_icon_white@2x.png) no-repeat; -moz-background-size:88px 31px; -o-background-size:88px 31px; -webkit-background-size:88px 31px; background-size:88px 31px; } }
 
-.photogrid-index-bottom { clear:left; }
-
 /*
    css Copyright © 2005-2012 Karelia Software. All rights reserved.
    css released under Creative Commons License
