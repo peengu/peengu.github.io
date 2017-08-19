@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body {
+	margin: 0;
+	font-size: 12pt;
+	font-family: Georgia,Times,serif;
+	color: #000;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: Verdana,sans-serif;
+	font-weight: normal;
+}
+
+#logo { float: right; }
+
+* html h1, * html h2, * html h3, * html h4, * html h5, * html h6 { font-weight: bold; }
+
+a { font-weight: bold; text-decoration: underline; }
+
+#page-bottom { border-top: 1px solid #000; padding-top: 4px; font-size: 10pt; }

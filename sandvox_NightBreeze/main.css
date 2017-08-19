@@ -1,0 +1,754 @@
+@charset "UTF-8";
+
+/*
+   css Copyright © 2005-2012 Karelia Software. All rights reserved.
+   css released under Creative Commons License  - http://creativecommons.org/licenses/by-sa/2.5/
+   All associated graphics belong to their respective owners and are licensed separately.
+*/
+
+/* IE7 hacks */
+
+*:first-child+html .gridItem img {
+	position:relative;
+	top:0px;
+}
+
+*:first-child+html .gridItem h3 {
+	position:relative;
+	top:0px;
+}
+
+/* Navigation arrows */
+div.text-navigation { text-align:center; margin-bottom:1em;}
+div.text-navigation div { display:inline; margin:0px 0.5em; }
+.collection-navigation .disabled-navigation { text-indent:-5000px; }
+
+/* 2.0 wrap compatibility. 2.0-compatible designs can further adjust these if they need */
+.wide { display:block; }
+
+.narrow.left {   /* Some designs won't respect without !important */
+    float:left!important;
+    clear:left!important;
+}
+.narrow.right {
+    float:right!important;
+    clear:right!important;
+}
+
+.wide.left   .graphic, img.wide.left,   .wide.left video,   .wide.left audio   { display:block; margin-left:0px; margin-right:auto; }
+.wide.center .graphic, img.wide.center, .wide.center video, .wide.center audio { display:block; margin-left:auto; margin-right:auto; }
+.wide.right  .graphic, img.wide.right,  .wide.right video,  .wide.right audio  { display:block; margin-left:auto; margin-right:0px; }
+
+
+.ImageElement.left, .AudioElement.left { text-align:left; }
+.ImageElement.center, .AudioElement.center { text-align:center; }
+.ImageElement.right, .AudioElement.right { text-align:right; }
+
+/* Captions should align themselves with the graphic */
+.graphic-container.left .caption { text-align:left; }
+.graphic-container.center .caption { text-align:center; }
+.graphic-container.right .caption { text-align:right; }
+
+/* Inline iframes need to display as a block to layout right */
+.graphic iframe { display:block; }
+
+/* Pagelet photo grids should be generally be auto width (some 1.x designs hardcoded an exact width) */
+.pagelet .photogrid-index { width:auto; }
+
+/* For content like amazon which forces white background. Design SHOULD set color for A tag and text color. */
+.whiteBackground
+{
+	background-color:white;
+}
+
+.article-info
+{
+	margin-bottom:1em;
+}
+
+/* Firefox reduce dotted lines on links */
+.photo-navigation a:focus, .replaced a:focus {overflow:hidden;}
+
+/* Disqus correction to prevent overflow scroll bars in some designs */
+#dsq-content { overflow:hidden; }
+#dsq-content .dsq-auth-header { width: auto!important; }
+#dsq-content .dsq-by { margin: 4px 6px 0px 0px; }
+#dsq-content .dsq-by a, #dsq-content .dsq-by a:hover { border: 0px none; }
+#dsq-content h3 { margin:0px; }
+
+/* Site menus. Don't wrap the top level items, and wrap sub-menu items normaly. */
+#sitemenu-content ul li span.in { white-space:nowrap;}
+* html #sitemenu-content ul li span.in {white-space: normal}
+*:first-child+html #sitemenu-content ul li span.in {white-space: normal}
+#sitemenu-content ul ul li span.in {white-space: normal}
+#sitemenu-content span.in { position: relative; }
+
+body { word-wrap:break-word; }
+
+/* Make sure scaled-down images look good in IE */
+img { -ms-interpolation-mode: bicubic; }
+
+.sandvox_icon_white { display:block; text-indent:-9999px; background:url(../_Resources/sandvox_icon_white.png) no-repeat; margin:auto !important; width:88px; height:31px; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-resolution: 240dpi) { .sandvox_icon_white { background:url(../_Resources/sandvox_icon_white@2x.png) no-repeat; -moz-background-size:88px 31px; -o-background-size:88px 31px; -webkit-background-size:88px 31px; background-size:88px 31px; } }
+
+/*
+   css Copyright © 2005-2012 Karelia Software. All rights reserved.
+   css released under Creative Commons License
+        - http://creativecommons.org/licenses/by-sa/2.5/
+   All associated graphics belong to their respective owners
+        and are licensed separately.
+*/
+
+* {
+	margin:0px;
+	padding:0px;
+}
+
+p {
+	margin:10px 0px;
+}
+
+a img
+{
+	border: none;
+}
+
+.clear
+{
+	clear: both;
+	height: 0;
+}
+
+.hidden
+{
+	display: none;
+}
+
+a
+{
+	color: #bfffe4;
+	text-decoration: none;
+	font-style: oblique;
+	border-bottom: 1px dashed #333c3d;
+	padding: 2px 0px;
+}
+
+a:hover
+{
+	color: #74ffc3;
+	border-bottom: 1px solid #86af9d;
+}
+
+a.imageLink, a.imageLink:hover {
+	border: 0px none;
+}
+
+ul, ol {
+	margin-left:2.5em;
+	line-height:1.7em;
+}
+
+
+h1,h2,h3,h4,h5,h6
+{
+	font-weight: normal;
+	margin-top: .6em;
+}
+
+
+h4, h5, h6 {
+	font-size: 100%;
+}
+
+
+.narrow
+{
+	display: block;
+	clear: right;
+	float: right;
+	margin:5px 0 3px 10px;
+}
+img.wide
+{
+	display: block;
+	clear: both;
+	text-align: center;
+}
+.narrow.left{
+	margin:5px 10px 3px 0;
+}
+.narrow.right{
+	margin:5px 0 3px 10px;
+}
+
+body
+{
+	margin: 0;
+	font-size: 76%;
+	font-family: "Lucida Grande", Verdana, Helvetica, sans-serif;
+	background: #151515;
+	color:#fff;
+}
+
+#page
+{
+	margin: auto;
+	width: 764px;
+	border: 2px solid #fff;
+	border-top: none;
+}
+
+#sidebar-container
+{
+	float: right;
+}
+
+#sidebar
+{
+	width:210px;
+	color: #bbb;
+	padding: 3px 6px;
+	background: #202627;
+	height: 100%;
+	float: left;
+}
+
+#sidebar h4
+{
+	color: #adf0e4;
+	font-weight:bold;
+}
+
+#sidebar img
+{
+	padding: 3px;
+	background: #555;
+	
+}
+
+#sidebar p
+{
+	margin: 0;
+	line-height: 16px;
+}
+
+#main {
+	width: 480px;
+	float: left;
+	padding: 0 10px;
+	min-height: 370px;
+}
+
+
+#page-top
+{
+	height: 264px;
+	background-image: url(headerbg.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding: 0;
+	position:relative;
+	/* overflow:hidden; */
+}
+
+
+/* IE7 doesn't get the positioning right for some reason - buggy! */
+*:first-child+html #page-top {
+	background-position: left top;
+}
+
+
+#title
+{
+	width: 400px;
+}
+
+#title h1
+{
+	position:absolute;
+	top:48px;
+	padding-left:24px;
+	width: 400px;
+	max-height: 132px;
+	overflow:hidden;
+	text-shadow: 0 3px 5px #000;
+	font: italic bold 3em Georgia, Times, "Times New Roman", serif;
+}
+
+#title h1 a
+{
+	text-decoration: none;
+	color: #fff;
+	border:none;
+}
+
+#title #logo-container
+{
+	float: left;
+	height: 115px;
+}
+
+#title img
+{
+	position:absolute;
+	right:24px;
+	top:24px;
+	padding-right: 10px;
+	float: right;
+}
+
+#title p
+{
+	position:absolute;
+	top:2px;
+	left:24px;
+	/*height: 1.3em;*/
+	height:3.6em;
+	font-size: 1em;
+	font-style: oblique;
+	overflow:hidden;
+}
+
+#title p a
+{
+	color: #fff;
+}
+
+#sitemenu
+{
+	position:  absolute;
+	bottom: 0px;
+}
+
+#sitemenu-content
+{
+	width: auto;
+	position: relative;
+	bottom: 3px;
+}
+
+
+#sitemenu-content ul
+{
+	list-style: none;
+	padding: 8px 5px;
+	margin: 0;
+	width: 754px;
+	text-align: right;
+	font-size:0.8em;
+	background: #132019 url(menubg.jpg) repeat-x left top;
+}
+
+#sitemenu-content ul li ul li {
+	background: #132019;
+}
+
+*:first-child+html #sitemenu-content ul li ul li {
+	margin-top: -2px;
+}
+
+#sitemenu-content li
+{
+	padding: 0;
+	display:inline;
+	font-size:  1.2em;
+	margin-left:1em;
+	line-height:1.6em;
+}
+
+#sitemenu-content .currentPage span.in, 
+#sitemenu-content .currentParent > a > span.in, 
+#sitemenu-content .selected
+{
+	text-decoration: underline;
+}
+
+#sitemenu-content .currentPage li span.in,
+#sitemenu-content .selected li span.in
+{
+	text-decoration: none;
+}
+
+
+#sitemenu-content a
+{
+	border:none;
+}
+
+#sitemenu-content ul ul a 
+{
+	padding: 0;
+}
+
+#sitemenu-content .currentParent > a > span.in
+{
+	color: white;
+}
+
+#sitemenu-content a:hover, 
+#sitemenu-content a:active, 
+#sitemenu-content .currentParent a:hover, 
+#sitemenu-content .currentParent a:active
+{
+	color: #92f6c5;
+}
+#sitemenu-content ul li ul li span.in{
+	border-bottom:solid 1px #FFF !important;
+}
+
+#page-content
+{
+	width: 100%;
+	float: left;
+}
+
+/*\*/
+* html #page-content
+{
+	margin-top: -16px;
+}
+
+/**/
+
+.pagelet
+{
+	width: 207px;
+	margin-top:1em;
+	overflow: hidden;
+}
+
+.pagelet h4, .pagelet h5, .pagelet h6
+{
+	margin-top:1.2em;
+	margin-bottom:1em;
+	padding-left:12px;
+	font-size:1em;
+	font-style:normal;
+	background: url(sidebarbg.jpg) 0px 0.3em no-repeat;
+}
+#sidebar .pagelet h5{
+	margin:5px 0;
+}
+
+.pagelet.i1 h4 {
+	margin-top:0em;
+}
+
+.blockquote-container>.pagelet-body, .blockquote-container>.graphic {
+	position: relative;
+	padding: 10px 15px 0px 20px;
+	background: -30px 0px no-repeat;
+	background-image: url(QuotationMarks-NightBreeze.png);
+}
+
+.blockquote-container .pagelet-body:after, .blockquote-container .graphic:after {
+	display: block;
+	position: absolute;
+	height: 70px;
+	width: 70px;
+	bottom: 0px;
+	right: 0px;
+	content: "";
+	background: transparent 45px 50px no-repeat;
+	background-image: url(QuotationMarks-NightBreeze.png);
+} 
+
+.blockquote-container blockquote {
+	margin: 0px;
+	z-index: 100;
+	position: relative;
+	font-style: italic;
+}
+
+.blockquote-container blockquote p {
+	margin: 0px 0px 10px 0px;
+	padding: 0px;
+}
+
+
+#main-content {
+	width: 500px;
+	margin-left: 14px;
+}
+
+body.no-sidebar #main-content {
+	width:725px;
+}
+
+#main h2
+{
+	color: #adf0e4;
+	font-size: 2em;
+	text-decoration: none;
+}
+
+.no-sidebar #main
+{
+	width: 692px;
+}
+
+
+.photo-page .caption
+{
+	padding: 2px 4px;
+	text-align: center;
+}
+
+.photo-page #page-bottom
+{
+	padding-top: 30px;
+}
+
+ul
+{
+	padding-left: 0;
+}
+
+.has-photo-navigation h2
+{
+	margin-right: 140px;
+	margin-bottom:24px;
+}
+
+.article, .no-callouts 
+{
+	line-height: 1.6em;
+	clear: left;
+}
+
+.article-info {
+	clear:left;
+}
+
+.article-thumbnail
+{
+	float: left;
+	margin: 5px 10px 3px 0;
+}
+
+.callout
+{
+	clear: both;
+	float: left;
+	width: 200px;
+	margin:1em -4px 12px 0px;
+	padding:0px 12px 6px 12px;
+	font-size: .9em;
+	border-style:solid;
+	border-color:#ccc;
+	border-width:1px 1px 1px 0px;
+	position:relative;
+	left:-24px;
+}
+
+/* IE:Mac Hackery */
+
+/*\*//*/
+.callout {
+	margin-left:-24px;
+	margin-right:12px;
+}
+/**/
+
+
+/* Used on Photo Grid Pages ... */
+.photogrid-index
+{
+	text-align: center;
+	overflow: visible;
+	/*float:left;*/
+}
+
+.photogrid-index a
+{
+	text-decoration: none;
+	border-bottom:none;
+}
+
+.photogrid-index a:hover
+{
+	text-decoration: underline !important;
+}
+
+.gridItem
+{
+	float: left;
+	position: relative;
+	width: 160px;
+	height: 180px;
+	overflow: hidden;
+}
+
+body.no-sidebar .gridItem {
+	width:145px;
+}
+
+.gridItem h3
+{
+	font-size: 1em;
+	font-weight: normal;
+	position: absolute;
+	margin: 0px 5px;
+	top: 137px;
+	width: 150px;
+}
+
+body.no-sidebar .gridItem h3 {
+	width:135px;
+}
+
+.gridItem img
+{
+	border: 1px solid rgb(80, 80, 80);
+	margin: auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 40px;
+	right: 0;
+	left: 0;
+}
+
+#sidebar .photogrid-index{
+	width:auto;
+	margin-left:20px;
+}
+
+* html .gridItem img
+{
+	position: relative;
+}
+
+
+/* IE Hack */
+/* Hides from IE5-mac \*/
+* html .gridItem h3
+{
+	position: relative;
+	top: 0px;
+}
+/* End hide from IE5-mac */
+
+
+/* Used on index summary pages */
+
+.listing-index ul
+{
+
+}
+
+.listing-index li h3 a
+{
+	text-decoration: none;
+	font-size: 1em;
+	font-weight: normal;
+}
+
+/* Individual Photo Pages */
+
+.ImageElement, .VideoElement
+{
+	text-align: center;
+	margin: 0 auto;
+}
+
+.photo-navigation
+{
+	float: right;
+	margin-top: -48px;
+	margin-right: 0px;
+}
+
+.photo-navigation a {
+	display: block;
+	text-indent: -5000px;
+	height: 100%;
+	width: 100%;
+	padding:0px;
+}
+
+.photo-navigation div
+{
+	margin-left: 18px;
+	float: left;
+	width: 33px;
+	height: 20px;
+}
+
+#previous-photo
+{
+	background: url(prev-disabled.gif) no-repeat center center;
+}
+
+#previous-photo	a
+{
+	background: url(prev.gif) no-repeat center center;
+}
+
+#next-photo
+{
+	background: url(next-disabled.gif) no-repeat center center;
+}
+
+#next-photo a
+{
+	background: url(next.gif) no-repeat center center;
+}
+
+#photo-list
+{
+	width: 33px;
+	background: url(list-disabled.gif) no-repeat center center;
+}
+
+#photo-list a
+{
+	width: 33px;
+	background: url(list.gif) no-repeat center center;
+}
+
+.text-navigation{ padding-top:10px;}
+
+.text-navigation #previous-photo, .text-navigation #next-photo, .text-navigation  #photo-list, .text-navigation a, .text-navigation a:hover{
+	background:none!important;
+	width:auto!important;
+	font-weight:bold;
+}
+#next-photo, #photo-list, #previous-photo{
+	text-indent:-10000px;
+}
+
+#page-bottom
+{
+	padding: 2px 24px 10px 24px;
+}
+
+#page-bottom p
+{
+	margin: 0;
+	font-size: .9em;
+}
+
+dd {
+	margin-left: 2.5em;
+}
+
+#sidebar-content
+{
+	padding: 2px;
+}
+
+.whiteBackground p
+{
+	color:#000;
+}
+.whiteBackground p a{
+ 	color:#394c46;
+ }
+ #main-content .video{ margin-top:10px;}
+ .no-page-title .photo-navigation {margin-top:-14px;}
+ 
+
+.callout-container, .graphic-container { clear:both; }
+
