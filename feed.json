@@ -10,11 +10,11 @@
     },
     "items": [
         {
-            "id": "https://peengu.github.io/peengu.github.io/Summer-2018.html",
-            "url": "https://peengu.github.io/peengu.github.io/Summer-2018.html",
+            "id": "https://peengu.github.io/peengu.github.io/summer-2018.html",
+            "url": "https://peengu.github.io/peengu.github.io/summer-2018.html",
             "title": "Summer 2018",
             "content_html": "<img src=\"https://peengu.github.io/peengu.github.io/media/posts/5/IMG_0149.JPG\" alt=\"\" width=\"6000\" height=\"4000\">",
-            "image": "https://peengu.github.io/peengu.github.io/media/posts/5/",
+            "image": "https://peengu.github.io/peengu.github.io/media/posts/5/IMG_0149.JPG",
             "author": {
                 "name": "Divya"
             },
@@ -22,7 +22,7 @@
                    "Sketch"
             ],
             "date_published": "2018-08-09T00:15:59+02:00",
-            "date_modified": "2018-08-09T00:17:44+02:00"
+            "date_modified": "2018-08-09T01:56:08+02:00"
         },
         {
             "id": "https://peengu.github.io/peengu.github.io/Camping-in-the-wild.html",
