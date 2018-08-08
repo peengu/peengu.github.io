@@ -2,27 +2,73 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Divya Kothari | 3D Artist",
     "description": "",
-    "home_page_url": "https://peengu.github.io",
-    "feed_url": "https://peengu.github.io/feed.json",
+    "home_page_url": "https://github.com/peengu/peengu.github.io",
+    "feed_url": "https://github.com/peengu/peengu.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Divya"
     },
     "items": [
         {
-            "id": "https://peengu.github.io/bankelal.html",
-            "url": "https://peengu.github.io/bankelal.html",
-            "title": "Under construction",
-            "summary": " ",
-            "content_html": "<p><img class=\"post__image--center\" src=\"https://peengu.github.io/media/posts/1/IMG_0162.JPG\" width=\"6000\" height=\"4000\"></p>\n<p> </p>",
-            "image": "https://peengu.github.io/media/posts/1/",
+            "id": "https://github.com/peengu/peengu.github.io/Summer-2018.html",
+            "url": "https://github.com/peengu/peengu.github.io/Summer-2018.html",
+            "title": "Summer 2018",
+            "content_html": "<img src=\"https://github.com/peengu/peengu.github.io/media/posts/5/IMG_0149.JPG\" alt=\"\" width=\"6000\" height=\"4000\">",
+            "image": "https://github.com/peengu/peengu.github.io/media/posts/5/",
             "author": {
                 "name": "Divya"
             },
             "tags": [
+                   "Sketch"
+            ],
+            "date_published": "2018-08-09T00:15:59+02:00",
+            "date_modified": "2018-08-09T00:17:44+02:00"
+        },
+        {
+            "id": "https://github.com/peengu/peengu.github.io/Camping-in-the-wild.html",
+            "url": "https://github.com/peengu/peengu.github.io/Camping-in-the-wild.html",
+            "title": "Camping in the wild",
+            "image": "https://github.com/peengu/peengu.github.io/media/posts/3/IMG_0126.JPG",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "Portfolio"
+            ],
+            "date_published": "2018-08-08T23:53:43+02:00",
+            "date_modified": "2018-08-09T00:19:27+02:00"
+        },
+        {
+            "id": "https://github.com/peengu/peengu.github.io/Cake.html",
+            "url": "https://github.com/peengu/peengu.github.io/Cake.html",
+            "title": "Cake",
+            "summary": "Best cake ever!",
+            "content_html": "Best cake ever!",
+            "image": "https://github.com/peengu/peengu.github.io/media/posts/2/IMG_0122.JPG",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "Portfolio"
+            ],
+            "date_published": "2018-08-08T23:50:36+02:00",
+            "date_modified": "2018-08-09T00:19:38+02:00"
+        },
+        {
+            "id": "https://github.com/peengu/peengu.github.io/bankelal.html",
+            "url": "https://github.com/peengu/peengu.github.io/bankelal.html",
+            "title": "Dog",
+            "summary": "This is me any my dog running wild and free in the desert. ",
+            "content_html": "<p>This is me any my dog running wild and free in the desert.</p>\n<p> </p>",
+            "image": "https://github.com/peengu/peengu.github.io/media/posts/1/IMG_0162.JPG",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "Portfolio"
             ],
             "date_published": "2018-08-08T23:04:57+02:00",
-            "date_modified": "2018-08-08T23:23:25+02:00"
+            "date_modified": "2018-08-09T00:19:51+02:00"
         }
     ]
 }
