@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Divya Kothari | 3D Artist",
     "description": "",
-    "home_page_url": "https://peengu.github.io",
-    "feed_url": "https://peengu.github.io/feed.json",
+    "home_page_url": "http://divyakothari.com",
+    "feed_url": "http://divyakothari.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Divya"
     },
     "items": [
         {
-            "id": "https://peengu.github.io/bankelal.html",
-            "url": "https://peengu.github.io/bankelal.html",
+            "id": "http://divyakothari.com/bankelal.html",
+            "url": "http://divyakothari.com/bankelal.html",
             "title": "Under construction",
             "summary": " ",
-            "content_html": "<p><img class=\"post__image--center\" src=\"https://peengu.github.io/media/posts/1/IMG_0162.JPG\" width=\"6000\" height=\"4000\"></p>\n<p> </p>",
-            "image": "https://peengu.github.io/media/posts/1/",
+            "content_html": "<p><img class=\"post__image--center\" src=\"http://divyakothari.com/media/posts/1/IMG_0162.JPG\" width=\"6000\" height=\"4000\"></p>\n<p> </p>",
+            "image": "http://divyakothari.com/media/posts/1/",
             "author": {
                 "name": "Divya"
             },
