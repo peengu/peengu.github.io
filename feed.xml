@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Divya Kothari | 3D Artist</title>
-    <link href="http://divyakothari.com/feed.xml" rel="self" />
-    <link href="http://divyakothari.com" />
-    <updated>2018-08-08T23:29:21+02:00</updated>
+    <link href="https://peengu.github.io/feed.xml" rel="self" />
+    <link href="https://peengu.github.io" />
+    <updated>2018-08-08T23:31:28+02:00</updated>
     <author>
         <name>Divya</name>
     </author>
-    <id>http://divyakothari.com</id>
+    <id>https://peengu.github.io</id>
 
     <entry>
         <title>Under construction</title>
         <author>
             <name>Divya</name>
         </author>
-        <link href="http://divyakothari.com/bankelal.html"/>
-        <id>http://divyakothari.com/bankelal.html</id>
+        <link href="https://peengu.github.io/bankelal.html"/>
+        <id>https://peengu.github.io/bankelal.html</id>
 
         <updated>2018-08-08T23:23:25+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://divyakothari.com/media/posts/1/" alt="" />
+                        <img src="https://peengu.github.io/media/posts/1/" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://divyakothari.com/media/posts/1/" alt="" />
-                <p><img class="post__image--center" src="http://divyakothari.com/media/posts/1/IMG_0162.JPG" width="6000" height="4000"></p>
+                    <img src="https://peengu.github.io/media/posts/1/" alt="" />
+                <p><img class="post__image--center" src="https://peengu.github.io/media/posts/1/IMG_0162.JPG" width="6000" height="4000"></p>
 <p> </p>
             ]]>
         </content>
