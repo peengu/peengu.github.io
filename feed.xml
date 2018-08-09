@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Divya Kothari | 3D Artist</title>
-    <link href="https://peengu.github.io/peengu.github.io/feed.xml" rel="self" />
-    <link href="https://peengu.github.io/peengu.github.io" />
-    <updated>2018-08-09T01:56:32+02:00</updated>
+    <link href="https://divyakothari.com/feed.xml" rel="self" />
+    <link href="https://divyakothari.com" />
+    <updated>2018-08-09T02:21:45+02:00</updated>
     <author>
         <name>Divya</name>
     </author>
-    <id>https://peengu.github.io/peengu.github.io</id>
+    <id>https://divyakothari.com</id>
 
     <entry>
         <title>Summer 2018</title>
         <author>
             <name>Divya</name>
         </author>
-        <link href="https://peengu.github.io/peengu.github.io/summer-2018.html"/>
-        <id>https://peengu.github.io/peengu.github.io/summer-2018.html</id>
+        <link href="https://divyakothari.com/summer-2018.html"/>
+        <id>https://divyakothari.com/summer-2018.html</id>
             <category term="Sketch"/>
 
         <updated>2018-08-09T01:56:08+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://peengu.github.io/peengu.github.io/media/posts/5/IMG_0149.JPG" alt="" />
-                <img src="https://peengu.github.io/peengu.github.io/media/posts/5/IMG_0149.JPG" alt="" width="6000" height="4000">
+                    <img src="https://divyakothari.com/media/posts/5/IMG_0149.JPG" alt="" />
+                <img src="https://divyakothari.com/media/posts/5/IMG_0149.JPG" alt="" width="6000" height="4000">
             ]]>
         </content>
     </entry>
@@ -32,8 +32,8 @@
         <author>
             <name>Divya</name>
         </author>
-        <link href="https://peengu.github.io/peengu.github.io/Camping-in-the-wild.html"/>
-        <id>https://peengu.github.io/peengu.github.io/Camping-in-the-wild.html</id>
+        <link href="https://divyakothari.com/Camping-in-the-wild.html"/>
+        <id>https://divyakothari.com/Camping-in-the-wild.html</id>
             <category term="Portfolio"/>
 
         <updated>2018-08-09T00:19:27+02:00</updated>
@@ -45,20 +45,20 @@
         <author>
             <name>Divya</name>
         </author>
-        <link href="https://peengu.github.io/peengu.github.io/Cake.html"/>
-        <id>https://peengu.github.io/peengu.github.io/Cake.html</id>
+        <link href="https://divyakothari.com/Cake.html"/>
+        <id>https://divyakothari.com/Cake.html</id>
             <category term="Portfolio"/>
 
         <updated>2018-08-09T00:19:38+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://peengu.github.io/peengu.github.io/media/posts/2/IMG_0122.JPG" alt="" />
+                        <img src="https://divyakothari.com/media/posts/2/IMG_0122.JPG" alt="" />
                     Best cake ever!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://peengu.github.io/peengu.github.io/media/posts/2/IMG_0122.JPG" alt="" />
+                    <img src="https://divyakothari.com/media/posts/2/IMG_0122.JPG" alt="" />
                 Best cake ever!
             ]]>
         </content>
@@ -68,20 +68,20 @@
         <author>
             <name>Divya</name>
         </author>
-        <link href="https://peengu.github.io/peengu.github.io/bankelal.html"/>
-        <id>https://peengu.github.io/peengu.github.io/bankelal.html</id>
+        <link href="https://divyakothari.com/bankelal.html"/>
+        <id>https://divyakothari.com/bankelal.html</id>
             <category term="Portfolio"/>
 
         <updated>2018-08-09T00:19:51+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://peengu.github.io/peengu.github.io/media/posts/1/IMG_0162.JPG" alt="" />
+                        <img src="https://divyakothari.com/media/posts/1/IMG_0162.JPG" alt="" />
                     This is me any my dog running wild and free in the desert. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://peengu.github.io/peengu.github.io/media/posts/1/IMG_0162.JPG" alt="" />
+                    <img src="https://divyakothari.com/media/posts/1/IMG_0162.JPG" alt="" />
                 <p>This is me any my dog running wild and free in the desert.</p>
 <p> </p>
             ]]>
