@@ -3,32 +3,103 @@
     <title>Divya Kothari | 3D Artist</title>
     <link href="https://divyakothari.com/feed.xml" rel="self" />
     <link href="https://divyakothari.com" />
-    <updated>2018-08-09T02:21:45+02:00</updated>
+    <updated>2018-10-05T22:12:12+02:00</updated>
     <author>
         <name>Divya</name>
     </author>
     <id>https://divyakothari.com</id>
 
     <entry>
-        <title>Summer 2018</title>
+        <title>Chipkali</title>
+        <author>
+            <name>Divya</name>
+        </author>
+        <link href="https://divyakothari.com/Chipkali.html"/>
+        <id>https://divyakothari.com/Chipkali.html</id>
+            <category term="Portfolio"/>
+
+        <updated>2018-10-05T21:06:46+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://divyakothari.com/media/posts/9/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31.png" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31.png" ><img src="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_50.png" ><img src="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_50-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_07_00.png" ><img src="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_07_00-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_32.png" ><img src="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_32-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_51.png" ><img src="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_51-thumbnail.png" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Year 2048</title>
+        <author>
+            <name>Divya</name>
+        </author>
+        <link href="https://divyakothari.com/Year-2048.html"/>
+        <id>https://divyakothari.com/Year-2048.html</id>
+            <category term="Portfolio"/>
+
+        <updated>2018-10-05T21:05:14+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://divyakothari.com/media/posts/8/6435814_orig.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/8/gallery/6435814_orig.jpg" ><img src="https://divyakothari.com/media/posts/8/gallery/6435814_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/8/gallery/tc-on_orig.jpg" ><img src="https://divyakothari.com/media/posts/8/gallery/tc-on_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Wild West</title>
+        <author>
+            <name>Divya</name>
+        </author>
+        <link href="https://divyakothari.com/Wild-West.html"/>
+        <id>https://divyakothari.com/Wild-West.html</id>
+            <category term="Portfolio"/>
+
+        <updated>2018-10-05T21:05:04+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://divyakothari.com/media/posts/7/WildWest_orig.jpeg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/7/gallery/WildWest_orig.jpeg" ><img src="https://divyakothari.com/media/posts/7/gallery/WildWest_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/7/gallery/ww-on.jpg" ><img src="https://divyakothari.com/media/posts/7/gallery/ww-on-thumbnail.jpg" alt="" width="400" height="225"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Warrior Girl</title>
         <author>
             <name>Divya</name>
         </author>
         <link href="https://divyakothari.com/summer-2018.html"/>
         <id>https://divyakothari.com/summer-2018.html</id>
-            <category term="Sketch"/>
+            <category term="Portfolio"/>
 
-        <updated>2018-08-09T01:56:08+02:00</updated>
+        <updated>2018-10-05T21:01:31+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://divyakothari.com/media/posts/5/IMG_0149.JPG" alt="" />
-                <img src="https://divyakothari.com/media/posts/5/IMG_0149.JPG" alt="" width="6000" height="4000">
+                    <img src="https://divyakothari.com/media/posts/5/warrior_orig.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/5/gallery/warrior_orig.jpg" ><img src="https://divyakothari.com/media/posts/5/gallery/warrior_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig.jpg" ><img src="https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/5/gallery/warrior-1_orig.jpg" ><img src="https://divyakothari.com/media/posts/5/gallery/warrior-1_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig.jpg" ><img src="https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Camping in the wild</title>
+        <title>Cozy nook</title>
         <author>
             <name>Divya</name>
         </author>
@@ -36,12 +107,26 @@
         <id>https://divyakothari.com/Camping-in-the-wild.html</id>
             <category term="Portfolio"/>
 
-        <updated>2018-08-09T00:19:27+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2018-10-05T20:58:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://divyakothari.com/media/posts/3/thecozynook-4_orig.jpeg" alt="" />
+                    Softwares used: Autodesk Maya and Unity 3D
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://divyakothari.com/media/posts/3/thecozynook-4_orig.jpeg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/3/gallery/thecozynook-4_orig.jpeg" ><img src="https://divyakothari.com/media/posts/3/gallery/thecozynook-4_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/3/gallery/the-nook-on_orig.jpg" ><img src="https://divyakothari.com/media/posts/3/gallery/the-nook-on_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+<p>Softwares used: Autodesk Maya and Unity 3D</p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Cake</title>
+        <title>iPhone</title>
         <author>
             <name>Divya</name>
         </author>
@@ -49,22 +134,27 @@
         <id>https://divyakothari.com/Cake.html</id>
             <category term="Portfolio"/>
 
-        <updated>2018-08-09T00:19:38+02:00</updated>
+        <updated>2018-10-05T20:56:23+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://divyakothari.com/media/posts/2/IMG_0122.JPG" alt="" />
-                    Best cake ever!
+                        <img src="https://divyakothari.com/media/posts/2/iphone-front_1_orig.jpeg" alt="" />
+                     Software used :- Autodesk Maya and Adobe Photoshop ​
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://divyakothari.com/media/posts/2/IMG_0122.JPG" alt="" />
-                Best cake ever!
+                    <img src="https://divyakothari.com/media/posts/2/iphone-front_1_orig.jpeg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/2/gallery/iphone-back_1_orig.jpeg" ><img src="https://divyakothari.com/media/posts/2/gallery/iphone-back_1_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/2/gallery/iphone-down_orig.jpeg" ><img src="https://divyakothari.com/media/posts/2/gallery/iphone-down_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/2/gallery/iphone-front_1_orig.jpeg" ><img src="https://divyakothari.com/media/posts/2/gallery/iphone-front_1_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+</div>
+<p><br>Software used :- Autodesk Maya and Adobe Photoshop ​</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Dog</title>
+        <title>Water Bottle</title>
         <author>
             <name>Divya</name>
         </author>
@@ -72,18 +162,23 @@
         <id>https://divyakothari.com/bankelal.html</id>
             <category term="Portfolio"/>
 
-        <updated>2018-08-09T00:19:51+02:00</updated>
+        <updated>2018-10-05T20:51:34+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://divyakothari.com/media/posts/1/IMG_0162.JPG" alt="" />
-                    This is me any my dog running wild and free in the desert. 
+                        <img src="https://divyakothari.com/media/posts/1/bottletable-1_orig.jpeg" alt="" />
+                    Software used: Autodesk Maya and Adobe Photoshop.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://divyakothari.com/media/posts/1/IMG_0162.JPG" alt="" />
-                <p>This is me any my dog running wild and free in the desert.</p>
-<p> </p>
+                    <img src="https://divyakothari.com/media/posts/1/bottletable-1_orig.jpeg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/1/gallery/bottletable_orig.jpeg" ><img src="https://divyakothari.com/media/posts/1/gallery/bottletable_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/1/gallery/bottletable-occ_orig.jpeg" ><img src="https://divyakothari.com/media/posts/1/gallery/bottletable-occ_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/1/gallery/bottletable-1_orig.jpeg" ><img src="https://divyakothari.com/media/posts/1/gallery/bottletable-1_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/1/gallery/bottletable-1-0cc_orig.jpeg" ><img src="https://divyakothari.com/media/posts/1/gallery/bottletable-1-0cc_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
+</div>
+<p>Software used: Autodesk Maya and Adobe Photoshop.</p>
             ]]>
         </content>
     </entry>
