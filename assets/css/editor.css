@@ -1,5 +1,5 @@
 /* 
- * Add your own CSS code for the WYSIWYG editor 
+ * Add your own CSS code for the WYSIWYG editor here:
  */
 
 .msg {
@@ -19,11 +19,9 @@
 }
 
 .dropcap:first-letter {
-  float: left; 
-  font-size: 3.65324rem;
-  line-height: 0.6;
-  margin-right: 0.5rem;
-  padding: 0.5rem 0.5rem 0.5rem 0;
+	float: left;
+	font-size: 3.65324rem;
+	line-height: 0.6;
+	margin-right: 0.5rem;
+	padding: 0.5rem 0.5rem 0.5rem 0;
 }
-
-
