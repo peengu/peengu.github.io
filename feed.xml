@@ -3,7 +3,7 @@
     <title>Divya Kothari | 3D Artist</title>
     <link href="https://divyakothari.com/feed.xml" rel="self" />
     <link href="https://divyakothari.com" />
-    <updated>2018-10-06T14:20:49+02:00</updated>
+    <updated>2018-10-06T15:04:55+02:00</updated>
     <author>
         <name>Divya</name>
     </author>
@@ -20,8 +20,13 @@
             <category term="character"/>
             <category term="3d"/>
 
-        <updated>2018-10-06T14:03:57+02:00</updated>
-            <summary></summary>
+        <updated>2018-10-06T14:36:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://divyakothari.com/media/posts/9/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31.png" alt="" />
+                    This is a game character that I'm working on with Unreal Engine.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://divyakothari.com/media/posts/9/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31.png" alt="" />
@@ -32,6 +37,7 @@
 <figure class="gallery__item"><a href="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_32.png" ><img src="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_32-thumbnail.png" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_51.png" ><img src="https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_51-thumbnail.png" alt="" width="240" height="240"></a></figure>
 </div>
+<p>This is a game character that I'm working on with Unreal Engine.</p>
             ]]>
         </content>
     </entry>
@@ -185,73 +191,74 @@
         </content>
     </entry>
     <entry>
-        <title>Warrior Girl</title>
+        <title>Owl</title>
         <author>
             <name>Divya</name>
         </author>
-        <link href="https://divyakothari.com/summer-2018/"/>
-        <id>https://divyakothari.com/summer-2018/</id>
-            <category term="portfolio"/>
-            <category term="character"/>
-            <category term="3d"/>
+        <link href="https://divyakothari.com/owl/"/>
+        <id>https://divyakothari.com/owl/</id>
+            <category term="sketch"/>
 
-        <updated>2018-10-06T14:02:03+02:00</updated>
+        <updated>2018-10-06T15:00:07+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://divyakothari.com/media/posts/5/warrior_orig.jpg" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/5/gallery/warrior_orig.jpg" ><img src="https://divyakothari.com/media/posts/5/gallery/warrior_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig.jpg" ><img src="https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/5/gallery/warrior-1_orig.jpg" ><img src="https://divyakothari.com/media/posts/5/gallery/warrior-1_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig.jpg" ><img src="https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
+                    <img src="https://divyakothari.com/media/posts/19/owl.jfif" alt="" />
+                <img class="post__image--center" src="https://divyakothari.com/media/posts/19/owl.jfif" alt="" width="1080" height="1398">
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Year 2048</title>
+        <title>Paper hole</title>
         <author>
             <name>Divya</name>
         </author>
-        <link href="https://divyakothari.com/year-2048/"/>
-        <id>https://divyakothari.com/year-2048/</id>
-            <category term="portfolio"/>
-            <category term="environment"/>
-            <category term="3d"/>
+        <link href="https://divyakothari.com/paper-hole/"/>
+        <id>https://divyakothari.com/paper-hole/</id>
+            <category term="sketch"/>
 
-        <updated>2018-10-06T14:03:41+02:00</updated>
+        <updated>2018-10-06T14:53:04+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://divyakothari.com/media/posts/8/6435814_orig.jpg" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/8/gallery/6435814_orig.jpg" ><img src="https://divyakothari.com/media/posts/8/gallery/6435814_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/8/gallery/tc-on_orig.jpg" ><img src="https://divyakothari.com/media/posts/8/gallery/tc-on_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
+                    <img src="https://divyakothari.com/media/posts/13/hole.jfif" alt="" />
+                <img class="post__image--center" src="https://divyakothari.com/media/posts/13/hole.jfif" alt="" width="1080" height="1398">
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Wild West</title>
+        <title>Human</title>
         <author>
             <name>Divya</name>
         </author>
-        <link href="https://divyakothari.com/wild-west/"/>
-        <id>https://divyakothari.com/wild-west/</id>
-            <category term="portfolio"/>
-            <category term="environment"/>
-            <category term="3d"/>
+        <link href="https://divyakothari.com/human/"/>
+        <id>https://divyakothari.com/human/</id>
+            <category term="sketch"/>
 
-        <updated>2018-10-06T14:02:55+02:00</updated>
+        <updated>2018-10-06T14:58:20+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://divyakothari.com/media/posts/7/WildWest_orig.jpeg" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/7/gallery/WildWest_orig.jpeg" ><img src="https://divyakothari.com/media/posts/7/gallery/WildWest_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/7/gallery/ww-on.jpg" ><img src="https://divyakothari.com/media/posts/7/gallery/ww-on-thumbnail.jpg" alt="" width="400" height="225"></a></figure>
-</div>
+                    <img src="https://divyakothari.com/media/posts/18/human01.jfif" alt="" />
+                <img class="post__image--center" src="https://divyakothari.com/media/posts/18/human01.jfif" alt="" width="1080" height="1398"><img class="post__image--center" src="https://divyakothari.com/media/posts/18/human02.jfif" alt="" width="1080" height="1398">
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amma - Indian cook</title>
+        <author>
+            <name>Divya</name>
+        </author>
+        <link href="https://divyakothari.com/amma-indian-cook/"/>
+        <id>https://divyakothari.com/amma-indian-cook/</id>
+            <category term="sketch"/>
+
+        <updated>2018-10-06T14:52:51+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://divyakothari.com/media/posts/15/amma.jfif" alt="" />
+                <img class="post__image--center" src="https://divyakothari.com/media/posts/15/amma.jfif" alt="" width="1080" height="1398">
             ]]>
         </content>
     </entry>
