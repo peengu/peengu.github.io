@@ -19,59 +19,16 @@
                 "name": "Divya"
             },
             "tags": [
-                   "Portfolio"
+                   "portfolio",
+                   "character",
+                   "3d"
             ],
-            "date_published": "2018-10-05T21:06:46+02:00",
-            "date_modified": "2018-10-06T11:32:53+02:00"
+            "date_published": "2018-10-05T21:06:00+02:00",
+            "date_modified": "2018-10-06T14:03:57+02:00"
         },
         {
-            "id": "https://divyakothari.com/Year-2048/",
-            "url": "https://divyakothari.com/Year-2048/",
-            "title": "Year 2048",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/8/gallery/6435814_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/8/gallery/6435814_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/8/gallery/tc-on_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/8/gallery/tc-on_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
-            "image": "https://divyakothari.com/media/posts/8/6435814_orig.jpg",
-            "author": {
-                "name": "Divya"
-            },
-            "tags": [
-                   "Portfolio"
-            ],
-            "date_published": "2018-10-05T21:04:53+02:00",
-            "date_modified": "2018-10-05T21:05:14+02:00"
-        },
-        {
-            "id": "https://divyakothari.com/Wild-West/",
-            "url": "https://divyakothari.com/Wild-West/",
-            "title": "Wild West",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/7/gallery/WildWest_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/7/gallery/WildWest_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/7/gallery/ww-on.jpg\" ><img src=\"https://divyakothari.com/media/posts/7/gallery/ww-on-thumbnail.jpg\" alt=\"\" width=\"400\" height=\"225\"></a></figure>\n</div>",
-            "image": "https://divyakothari.com/media/posts/7/WildWest_orig.jpeg",
-            "author": {
-                "name": "Divya"
-            },
-            "tags": [
-                   "Portfolio"
-            ],
-            "date_published": "2018-10-05T21:02:59+02:00",
-            "date_modified": "2018-10-05T21:05:04+02:00"
-        },
-        {
-            "id": "https://divyakothari.com/summer-2018/",
-            "url": "https://divyakothari.com/summer-2018/",
-            "title": "Warrior Girl",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/warrior_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/5/gallery/warrior_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/warrior-1_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/5/gallery/warrior-1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
-            "image": "https://divyakothari.com/media/posts/5/warrior_orig.jpg",
-            "author": {
-                "name": "Divya"
-            },
-            "tags": [
-                   "Portfolio"
-            ],
-            "date_published": "2018-08-09T00:15:59+02:00",
-            "date_modified": "2018-10-05T21:01:31+02:00"
-        },
-        {
-            "id": "https://divyakothari.com/Camping-in-the-wild/",
-            "url": "https://divyakothari.com/Camping-in-the-wild/",
+            "id": "https://divyakothari.com/camping-in-the-wild/",
+            "url": "https://divyakothari.com/camping-in-the-wild/",
             "title": "Cozy nook",
             "summary": "Softwares used: Autodesk Maya and Unity 3D",
             "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/3/gallery/thecozynook-4_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/3/gallery/thecozynook-4_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/3/gallery/the-nook-on_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/3/gallery/the-nook-on_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p>Softwares used: Autodesk Maya and Unity 3D</p>",
@@ -80,14 +37,15 @@
                 "name": "Divya"
             },
             "tags": [
-                   "Portfolio"
+                   "props",
+                   "3d"
             ],
-            "date_published": "2018-08-08T23:53:43+02:00",
-            "date_modified": "2018-10-05T20:58:58+02:00"
+            "date_published": "2018-07-02T08:44:00+02:00",
+            "date_modified": "2018-10-06T14:01:02+02:00"
         },
         {
-            "id": "https://divyakothari.com/Cake/",
-            "url": "https://divyakothari.com/Cake/",
+            "id": "https://divyakothari.com/cake/",
+            "url": "https://divyakothari.com/cake/",
             "title": "iPhone",
             "summary": " Software used :- Autodesk Maya and Adobe Photoshop ​",
             "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-back_1_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/2/gallery/iphone-back_1_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-down_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/2/gallery/iphone-down_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-front_1_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/2/gallery/iphone-front_1_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p><br>Software used :- Autodesk Maya and Adobe Photoshop ​</p>",
@@ -96,10 +54,11 @@
                 "name": "Divya"
             },
             "tags": [
-                   "Portfolio"
+                   "props",
+                   "3d"
             ],
-            "date_published": "2018-08-08T23:50:36+02:00",
-            "date_modified": "2018-10-05T20:56:23+02:00"
+            "date_published": "2018-03-27T16:50:00+02:00",
+            "date_modified": "2018-10-06T14:00:19+02:00"
         },
         {
             "id": "https://divyakothari.com/bankelal/",
@@ -112,10 +71,62 @@
                 "name": "Divya"
             },
             "tags": [
-                   "Portfolio"
+                   "props",
+                   "3d"
             ],
-            "date_published": "2018-08-08T23:04:57+02:00",
-            "date_modified": "2018-10-05T20:51:34+02:00"
+            "date_published": "2018-03-15T23:04:00+01:00",
+            "date_modified": "2018-10-06T13:59:42+02:00"
+        },
+        {
+            "id": "https://divyakothari.com/summer-2018/",
+            "url": "https://divyakothari.com/summer-2018/",
+            "title": "Warrior Girl",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/warrior_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/5/gallery/warrior_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/warrior-1_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/5/gallery/warrior-1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://divyakothari.com/media/posts/5/warrior_orig.jpg",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "portfolio",
+                   "character",
+                   "3d"
+            ],
+            "date_published": "2016-05-13T00:15:00+02:00",
+            "date_modified": "2018-10-06T14:02:03+02:00"
+        },
+        {
+            "id": "https://divyakothari.com/year-2048/",
+            "url": "https://divyakothari.com/year-2048/",
+            "title": "Year 2048",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/8/gallery/6435814_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/8/gallery/6435814_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/8/gallery/tc-on_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/8/gallery/tc-on_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://divyakothari.com/media/posts/8/6435814_orig.jpg",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "portfolio",
+                   "environment",
+                   "3d"
+            ],
+            "date_published": "2014-12-15T04:13:00+01:00",
+            "date_modified": "2018-10-06T14:03:41+02:00"
+        },
+        {
+            "id": "https://divyakothari.com/wild-west/",
+            "url": "https://divyakothari.com/wild-west/",
+            "title": "Wild West",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/7/gallery/WildWest_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/7/gallery/WildWest_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/7/gallery/ww-on.jpg\" ><img src=\"https://divyakothari.com/media/posts/7/gallery/ww-on-thumbnail.jpg\" alt=\"\" width=\"400\" height=\"225\"></a></figure>\n</div>",
+            "image": "https://divyakothari.com/media/posts/7/WildWest_orig.jpeg",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "portfolio",
+                   "environment",
+                   "3d"
+            ],
+            "date_published": "2014-09-24T12:02:00+02:00",
+            "date_modified": "2018-10-06T14:02:55+02:00"
         }
     ]
 }
