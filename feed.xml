@@ -3,7 +3,7 @@
     <title>Divya Kothari | 3D Artist</title>
     <link href="https://divyakothari.com/feed.xml" rel="self" />
     <link href="https://divyakothari.com" />
-    <updated>2018-10-06T14:04:45+02:00</updated>
+    <updated>2018-10-06T14:20:49+02:00</updated>
     <author>
         <name>Divya</name>
     </author>
@@ -64,6 +64,37 @@
         </content>
     </entry>
     <entry>
+        <title>Luiee</title>
+        <author>
+            <name>Divya</name>
+        </author>
+        <link href="https://divyakothari.com/luiee/"/>
+        <id>https://divyakothari.com/luiee/</id>
+            <category term="character"/>
+            <category term="3d"/>
+
+        <updated>2018-10-06T14:20:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://divyakothari.com/media/posts/10/socialmediabug_orig.png" alt="" />
+                    I made this character while playing around with Unity game engine. The asset is available on the Unty Asset Store. https://assetstore.unity.com/packages/3d/characters/animals/bee-the-runner-119883
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://divyakothari.com/media/posts/10/socialmediabug_orig.png" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/10/gallery/02_orig.png" ><img src="https://divyakothari.com/media/posts/10/gallery/02_orig-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/10/gallery/03_orig.png" ><img src="https://divyakothari.com/media/posts/10/gallery/03_orig-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/10/gallery/04_orig.png" ><img src="https://divyakothari.com/media/posts/10/gallery/04_orig-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/10/gallery/socialmediabug_orig.png" ><img src="https://divyakothari.com/media/posts/10/gallery/socialmediabug_orig-thumbnail.png" alt="" width="240" height="240"></a></figure>
+</div>
+<p>I made this character while playing around with Unity game engine. The asset is available on the Unty Asset Store.</p>
+<p><a href="https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954" target="_blank" rel="noopener noreferrer">https://assetstore.unity.com/packages/3d/characters/animals/bee-the-runner-119883</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>iPhone</title>
         <author>
             <name>Divya</name>
@@ -119,6 +150,37 @@
 <figure class="gallery__item"><a href="https://divyakothari.com/media/posts/1/gallery/bottletable-1-0cc_orig.jpeg" ><img src="https://divyakothari.com/media/posts/1/gallery/bottletable-1-0cc_orig-thumbnail.jpeg" alt="" width="240" height="240"></a></figure>
 </div>
 <p>Software used: Autodesk Maya and Adobe Photoshop.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baby seal</title>
+        <author>
+            <name>Divya</name>
+        </author>
+        <link href="https://divyakothari.com/baby-seal/"/>
+        <id>https://divyakothari.com/baby-seal/</id>
+            <category term="character"/>
+            <category term="3d"/>
+
+        <updated>2018-10-06T14:19:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://divyakothari.com/media/posts/11/bs5_orig.jpg" alt="" />
+                    A character for Unity Asset store. The inspiration was famous Tiny Wings game. https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://divyakothari.com/media/posts/11/bs5_orig.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/11/gallery/bs2_orig.jpg" ><img src="https://divyakothari.com/media/posts/11/gallery/bs2_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/11/gallery/bs3_orig.jpg" ><img src="https://divyakothari.com/media/posts/11/gallery/bs3_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/11/gallery/bs4_orig.jpg" ><img src="https://divyakothari.com/media/posts/11/gallery/bs4_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/11/gallery/bs5_orig.jpg" ><img src="https://divyakothari.com/media/posts/11/gallery/bs5_orig-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+<p>A character for Unity Asset store. The inspiration was famous Tiny Wings game.</p>
+<p><a href="https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954" target="_blank" rel="noopener noreferrer">https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954</a></p>
             ]]>
         </content>
     </entry>

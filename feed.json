@@ -44,6 +44,23 @@
             "date_modified": "2018-10-06T14:01:02+02:00"
         },
         {
+            "id": "https://divyakothari.com/luiee/",
+            "url": "https://divyakothari.com/luiee/",
+            "title": "Luiee",
+            "summary": "I made this character while playing around with Unity game engine. The asset is available on the Unty Asset Store. https://assetstore.unity.com/packages/3d/characters/animals/bee-the-runner-119883",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/02_orig.png\" ><img src=\"https://divyakothari.com/media/posts/10/gallery/02_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/03_orig.png\" ><img src=\"https://divyakothari.com/media/posts/10/gallery/03_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/04_orig.png\" ><img src=\"https://divyakothari.com/media/posts/10/gallery/04_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/socialmediabug_orig.png\" ><img src=\"https://divyakothari.com/media/posts/10/gallery/socialmediabug_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p>I made this character while playing around with Unity game engine. The asset is available on the Unty Asset Store.</p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954\" target=\"_blank\" rel=\"noopener noreferrer\">https://assetstore.unity.com/packages/3d/characters/animals/bee-the-runner-119883</a></p>",
+            "image": "https://divyakothari.com/media/posts/10/socialmediabug_orig.png",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "character",
+                   "3d"
+            ],
+            "date_published": "2018-06-06T14:11:00+02:00",
+            "date_modified": "2018-10-06T14:20:09+02:00"
+        },
+        {
             "id": "https://divyakothari.com/cake/",
             "url": "https://divyakothari.com/cake/",
             "title": "iPhone",
@@ -76,6 +93,23 @@
             ],
             "date_published": "2018-03-15T23:04:00+01:00",
             "date_modified": "2018-10-06T13:59:42+02:00"
+        },
+        {
+            "id": "https://divyakothari.com/baby-seal/",
+            "url": "https://divyakothari.com/baby-seal/",
+            "title": "Baby seal",
+            "summary": "A character for Unity Asset store. The inspiration was famous Tiny Wings game. https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs2_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/11/gallery/bs2_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs3_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/11/gallery/bs3_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs4_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/11/gallery/bs4_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs5_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/11/gallery/bs5_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p>A character for Unity Asset store. The inspiration was famous Tiny Wings game.</p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954\" target=\"_blank\" rel=\"noopener noreferrer\">https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954</a></p>",
+            "image": "https://divyakothari.com/media/posts/11/bs5_orig.jpg",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "character",
+                   "3d"
+            ],
+            "date_published": "2017-12-18T14:16:00+01:00",
+            "date_modified": "2018-10-06T14:19:37+02:00"
         },
         {
             "id": "https://divyakothari.com/summer-2018/",
