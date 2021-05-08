@@ -1,2 +1,4 @@
+mopub.com, 8845909731eb4a1b9e3451b900cf9ab9, DIRECT, 74b46c0ea83967ca
+rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
 google.com, pub-1959513555979416, DIRECT, f08c47fec0942fa0
 facebook.com, 455403429022166, DIRECT, c3e20eee3f780d68
