@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Divya Kothari | 3D Artist",
+    "title": "Divya Kothari",
     "description": "",
     "home_page_url": "https://divyakothari.com",
     "feed_url": "https://divyakothari.com/feed.json",
@@ -10,11 +10,59 @@
     },
     "items": [
         {
+            "id": "https://divyakothari.com/quick-cinematics/",
+            "url": "https://divyakothari.com/quick-cinematics/",
+            "title": "Quick Cinematics",
+            "summary": " How easy is it to create a video from your photo&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/22/gallery/QCine_ss_2.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/22/gallery/QCine_ss_2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/22/gallery/QCine_ss_3.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/22/gallery/QCine_ss_3-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/22/gallery/QCine_ss_1-2.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/22/gallery/QCine_ss_1-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<address><a href=\"https://apps.apple.com/us/app/quick-cinematics/id1545041069?itsct=apps_box_link&amp;itscg=30200\" target=\"_blank\" rel=\"noopener noreferrer\"></a>\n<p>How easy is it to create a video from your photo using Quick Cinematics?<br><br>1. Open a photo.<br>2. Apply one of the many templates.<br>3. Tweak: start/end frames, duration, quality. <br>3. Boom! Your video is ready.<br>4. Press share button to save on device or share your creation with the world.</p>\n<p> </p>\n<a href=\"https://apps.apple.com/us/app/quick-cinematics/id1545041069?itsct=apps_box_link&amp;itscg=30200\" target=\"_blank\" rel=\"noopener noreferrer\"><br><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://divyakothari.com/media/posts/22/black.svg\" alt=\"\" width=\"120\" height=\"40\"></figure></a></address>",
+            "image": "https://divyakothari.com/media/posts/22/quick-cinematics.png",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "apps"
+            ],
+            "date_published": "2021-05-04T15:21:57+02:00",
+            "date_modified": "2021-05-05T18:24:41+02:00"
+        },
+        {
+            "id": "https://divyakothari.com/quick-convert/",
+            "url": "https://divyakothari.com/quick-convert/",
+            "title": "Quick Convert",
+            "summary": " ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_1.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_1-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_2.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p> </p>\n<h6>The unit converter app that you wish came pre installed on your device..</h6>\n<h6>1. Intuitive and efficient user interface.</h6>\n<h6>2. Clean and beautiful single screen user interface.</h6>\n<h6>3. Designed with all screen sizes in mind.</h6>\n<h6>4. Lightweight in size. - Dark mode.</h6>\n<p> </p>\n<figure class=\"post__image post__image--center\"><a href=\"https://apps.apple.com/us/app/quick-unit-convert/id1458957344?itsct=apps_box_link&amp;itscg=30200\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\"  src=\"file:///Users/divyakothari/Documents/Publii/sites/divyakotharicom/input/media/posts/20/white.svg\" alt=\"\" width=\"120\" height=\"40\"></figure></a></p>",
+            "image": "https://divyakothari.com/media/posts/21/quick-unit-convert.png",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "apps"
+            ],
+            "date_published": "2021-05-04T15:21:07+02:00",
+            "date_modified": "2021-05-05T18:26:14+02:00"
+        },
+        {
+            "id": "https://divyakothari.com/capture-path/",
+            "url": "https://divyakothari.com/capture-path/",
+            "title": "Capture Path",
+            "summary": " Capture Path is a simple board game for users of all&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-3.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-3-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p>Capture Path is a simple board game for users of all ages. <br><br>Capture Path is based on a classic game called Achi with a minor variations to make it more challenging and fun.<br><br>Play in one of the available 3 modes:<br><br>1. Tournament mode: Compete against different bots across many different levels. </p>\n<p>2. Quick Match mode: Play a multi game session against a challenger and see how          many games can you win.</p>\n<p>3. Two Player mode: Play offline against a friend or family member on the same device for some quality fun time.</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://divyakothari.com/media/posts/20/white.svg\" alt=\"\" width=\"120\" height=\"40\"></figure>",
+            "image": "https://divyakothari.com/media/posts/20/capture-path-match-3.png.jpeg",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "apps"
+            ],
+            "date_published": "2021-05-04T14:08:53+02:00",
+            "date_modified": "2021-05-05T18:25:36+02:00"
+        },
+        {
             "id": "https://divyakothari.com/chipkali/",
             "url": "https://divyakothari.com/chipkali/",
             "title": "Chipkali",
-            "summary": "This is a game character that I'm working on with Unreal Engine.",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31.png\" ><img src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_50.png\" ><img src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_50-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_07_00.png\" ><img src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_07_00-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_32.png\" ><img src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_32-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_51.png\" ><img src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_51-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p>This is a game character that I'm working on with Unreal Engine.</p>",
+            "summary": " This is a game character that I'm working on with Unreal&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31.png\" data-size=\"861x456\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_50.png\" data-size=\"1076x570\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_50-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_07_00.png\" data-size=\"856x454\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_07_00-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_32.png\" data-size=\"928x492\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_32-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_51.png\" data-size=\"923x489\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/9/gallery/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_08_51-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p>This is a game character that I'm working on with Unreal Engine.</p>",
             "image": "https://divyakothari.com/media/posts/9/Autodesk-Maya-LT-2018_-C__Users_divya_Documents_WORK_MayaLT_Chipkali_scenes_layout.mlt_-05_10_2018-14_06_31.png",
             "author": {
                 "name": "Divya"
@@ -31,8 +79,8 @@
             "id": "https://divyakothari.com/camping-in-the-wild/",
             "url": "https://divyakothari.com/camping-in-the-wild/",
             "title": "Cozy nook",
-            "summary": "Softwares used: Autodesk Maya and Unity 3D",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/3/gallery/thecozynook-4_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/3/gallery/thecozynook-4_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/3/gallery/the-nook-on_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/3/gallery/the-nook-on_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p>Softwares used: Autodesk Maya and Unity 3D</p>",
+            "summary": " Softwares used: Autodesk Maya and Unity 3D",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/3/gallery/thecozynook-4_orig.jpeg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/3/gallery/thecozynook-4_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/3/gallery/the-nook-on_orig.jpg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/3/gallery/the-nook-on_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p>Softwares used: Autodesk Maya and Unity 3D</p>",
             "image": "https://divyakothari.com/media/posts/3/thecozynook-4_orig.jpeg",
             "author": {
                 "name": "Divya"
@@ -48,8 +96,8 @@
             "id": "https://divyakothari.com/luiee/",
             "url": "https://divyakothari.com/luiee/",
             "title": "Luiee",
-            "summary": "I made this character while playing around with Unity game engine. The&hellip;",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/02_orig.png\" ><img src=\"https://divyakothari.com/media/posts/10/gallery/02_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/03_orig.png\" ><img src=\"https://divyakothari.com/media/posts/10/gallery/03_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/04_orig.png\" ><img src=\"https://divyakothari.com/media/posts/10/gallery/04_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/socialmediabug_orig.png\" ><img src=\"https://divyakothari.com/media/posts/10/gallery/socialmediabug_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p>I made this character while playing around with Unity game engine. The asset is available on the Unty Asset Store.</p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954\" target=\"_blank\" rel=\"noopener noreferrer\">https://assetstore.unity.com/packages/3d/characters/animals/bee-the-runner-119883</a></p>",
+            "summary": " I made this character while playing around with Unity game engine.",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/02_orig.png\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/10/gallery/02_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/03_orig.png\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/10/gallery/03_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/04_orig.png\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/10/gallery/04_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/10/gallery/socialmediabug_orig.png\" data-size=\"1200x630\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/10/gallery/socialmediabug_orig-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p>I made this character while playing around with Unity game engine. The asset is available on the Unty Asset Store.</p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954\" target=\"_blank\" rel=\"noopener noreferrer\">https://assetstore.unity.com/packages/3d/characters/animals/bee-the-runner-119883</a></p>",
             "image": "https://divyakothari.com/media/posts/10/socialmediabug_orig.png",
             "author": {
                 "name": "Divya"
@@ -66,7 +114,7 @@
             "url": "https://divyakothari.com/cake/",
             "title": "iPhone",
             "summary": " Software used :- Autodesk Maya and Adobe Photoshop ​",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-back_1_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/2/gallery/iphone-back_1_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-down_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/2/gallery/iphone-down_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-front_1_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/2/gallery/iphone-front_1_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p><br>Software used :- Autodesk Maya and Adobe Photoshop ​</p>",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-back_1_orig.jpeg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/2/gallery/iphone-back_1_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-down_orig.jpeg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/2/gallery/iphone-down_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/2/gallery/iphone-front_1_orig.jpeg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/2/gallery/iphone-front_1_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p><br>Software used :- Autodesk Maya and Adobe Photoshop ​</p>",
             "image": "https://divyakothari.com/media/posts/2/iphone-front_1_orig.jpeg",
             "author": {
                 "name": "Divya"
@@ -82,8 +130,8 @@
             "id": "https://divyakothari.com/bankelal/",
             "url": "https://divyakothari.com/bankelal/",
             "title": "Water Bottle",
-            "summary": "Software used: Autodesk Maya and Adobe Photoshop.",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/1/gallery/bottletable_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/1/gallery/bottletable_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/1/gallery/bottletable-occ_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/1/gallery/bottletable-occ_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/1/gallery/bottletable-1_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/1/gallery/bottletable-1_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/1/gallery/bottletable-1-0cc_orig.jpeg\" ><img src=\"https://divyakothari.com/media/posts/1/gallery/bottletable-1-0cc_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p>Software used: Autodesk Maya and Adobe Photoshop.</p>",
+            "summary": " Software used: Autodesk Maya and Adobe Photoshop.",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/1/gallery/bottletable_orig.jpeg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/1/gallery/bottletable_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/1/gallery/bottletable-occ_orig.jpeg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/1/gallery/bottletable-occ_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/1/gallery/bottletable-1_orig.jpeg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/1/gallery/bottletable-1_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/1/gallery/bottletable-1-0cc_orig.jpeg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/1/gallery/bottletable-1-0cc_orig-thumbnail.jpeg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p>Software used: Autodesk Maya and Adobe Photoshop.</p>",
             "image": "https://divyakothari.com/media/posts/1/bottletable-1_orig.jpeg",
             "author": {
                 "name": "Divya"
@@ -99,8 +147,8 @@
             "id": "https://divyakothari.com/baby-seal/",
             "url": "https://divyakothari.com/baby-seal/",
             "title": "Baby seal",
-            "summary": "A character for Unity Asset store. The inspiration was famous Tiny Wings&hellip;",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs2_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/11/gallery/bs2_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs3_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/11/gallery/bs3_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs4_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/11/gallery/bs4_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs5_orig.jpg\" ><img src=\"https://divyakothari.com/media/posts/11/gallery/bs5_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p>A character for Unity Asset store. The inspiration was famous Tiny Wings game.</p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954\" target=\"_blank\" rel=\"noopener noreferrer\">https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954</a></p>",
+            "summary": " A character for Unity Asset store. The inspiration was famous Tiny&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs2_orig.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/11/gallery/bs2_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs3_orig.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/11/gallery/bs3_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs4_orig.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/11/gallery/bs4_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/11/gallery/bs5_orig.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/11/gallery/bs5_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p>A character for Unity Asset store. The inspiration was famous Tiny Wings game.</p>\n<p><a href=\"https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954\" target=\"_blank\" rel=\"noopener noreferrer\">https://assetstore.unity.com/packages/3d/characters/babyseal-toon-100954</a></p>",
             "image": "https://divyakothari.com/media/posts/11/bs5_orig.jpg",
             "author": {
                 "name": "Divya"
@@ -113,64 +161,22 @@
             "date_modified": "2018-10-06T14:19:37+02:00"
         },
         {
-            "id": "https://divyakothari.com/owl/",
-            "url": "https://divyakothari.com/owl/",
-            "title": "Owl",
-            "content_html": "<img class=\"post__image--center\" src=\"https://divyakothari.com/media/posts/19/owl.jfif\" alt=\"\" width=\"1080\" height=\"1398\">",
-            "image": "https://divyakothari.com/media/posts/19/owl.jfif",
+            "id": "https://divyakothari.com/summer-2018/",
+            "url": "https://divyakothari.com/summer-2018/",
+            "title": "Warrior ",
+            "summary": " ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/warrior_orig.jpg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/5/gallery/warrior_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig.jpg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/warrior-1_orig.jpg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/5/gallery/warrior-1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig.jpg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>",
+            "image": "https://divyakothari.com/media/posts/5/warrior_orig.jpg",
             "author": {
                 "name": "Divya"
             },
             "tags": [
-                   "drawings"
+                   "portfolio",
+                   "character",
+                   "3d-work"
             ],
-            "date_published": "2017-09-25T00:16:00+02:00",
-            "date_modified": "2018-10-06T15:00:07+02:00"
-        },
-        {
-            "id": "https://divyakothari.com/paper-hole/",
-            "url": "https://divyakothari.com/paper-hole/",
-            "title": "Paper hole",
-            "content_html": "<img class=\"post__image--center\" src=\"https://divyakothari.com/media/posts/13/hole.jfif\" alt=\"\" width=\"1080\" height=\"1398\">",
-            "image": "https://divyakothari.com/media/posts/13/hole.jfif",
-            "author": {
-                "name": "Divya"
-            },
-            "tags": [
-                   "drawings"
-            ],
-            "date_published": "2017-09-14T16:46:00+02:00",
-            "date_modified": "2018-10-06T14:53:04+02:00"
-        },
-        {
-            "id": "https://divyakothari.com/human/",
-            "url": "https://divyakothari.com/human/",
-            "title": "Human",
-            "content_html": "<img class=\"post__image--center\" src=\"https://divyakothari.com/media/posts/18/human01.jfif\" alt=\"\" width=\"1080\" height=\"1398\"><img class=\"post__image--center\" src=\"https://divyakothari.com/media/posts/18/human02.jfif\" alt=\"\" width=\"1080\" height=\"1398\">",
-            "image": "https://divyakothari.com/media/posts/18/human01.jfif",
-            "author": {
-                "name": "Divya"
-            },
-            "tags": [
-                   "drawings"
-            ],
-            "date_published": "2017-09-02T12:06:00+02:00",
-            "date_modified": "2018-10-06T14:58:20+02:00"
-        },
-        {
-            "id": "https://divyakothari.com/amma-indian-cook/",
-            "url": "https://divyakothari.com/amma-indian-cook/",
-            "title": "Amma - Indian cook",
-            "content_html": "<img class=\"post__image--center\" src=\"https://divyakothari.com/media/posts/15/amma.jfif\" alt=\"\" width=\"1080\" height=\"1398\">",
-            "image": "https://divyakothari.com/media/posts/15/amma.jfif",
-            "author": {
-                "name": "Divya"
-            },
-            "tags": [
-                   "drawings"
-            ],
-            "date_published": "2017-08-29T16:50:00+02:00",
-            "date_modified": "2018-10-06T14:52:51+02:00"
+            "date_published": "2016-05-13T00:15:00+02:00",
+            "date_modified": "2021-05-05T18:27:33+02:00"
         }
     ]
 }
