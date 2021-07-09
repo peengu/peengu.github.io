@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://divyakothari.com/3d-icons/",
+            "url": "https://divyakothari.com/3d-icons/",
+            "title": "3D Icons",
+            "summary": " Tiktok 3D Icon Spotify 3D Icon Netflix 3D Icon 3D Icons&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/24/gallery/C4B435BC-4B7C-48E3-B2B1-1237B1597023.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/24/gallery/C4B435BC-4B7C-48E3-B2B1-1237B1597023-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>Tiktok 3D Icon</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/24/gallery/Spotify-copy.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/24/gallery/Spotify-copy-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>Spotify 3D Icon</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/24/gallery/Netflix.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/24/gallery/Netflix-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>Netflix 3D Icon</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/24/gallery/Logos.jpg\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/24/gallery/Logos-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>3D Icons</figcaption>\n</figure>\n</div></div>",
+            "image": "https://divyakothari.com/media/posts/24/C4B435BC-4B7C-48E3-B2B1-1237B1597023.jpg",
+            "author": {
+                "name": "Divya"
+            },
+            "tags": [
+                   "3d-work"
+            ],
+            "date_published": "2021-07-08T13:39:09+02:00",
+            "date_modified": "2021-07-08T13:44:26+02:00"
+        },
+        {
             "id": "https://divyakothari.com/quick-cinematics/",
             "url": "https://divyakothari.com/quick-cinematics/",
             "title": "Quick Cinematics",
@@ -30,7 +46,7 @@
             "url": "https://divyakothari.com/quick-convert/",
             "title": "Quick Convert",
             "summary": " ",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_1.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_1-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_2.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p> </p>\n<h6>The unit converter app that you wish came pre installed on your device..</h6>\n<h6>1. Intuitive and efficient user interface.</h6>\n<h6>2. Clean and beautiful single screen user interface.</h6>\n<h6>3. Designed with all screen sizes in mind.</h6>\n<h6>4. Lightweight in size. - Dark mode.</h6>\n<p> </p>\n<figure class=\"post__image post__image--center\"><a href=\"https://apps.apple.com/us/app/quick-unit-convert/id1458957344?itsct=apps_box_link&amp;itscg=30200\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\"  src=\"file:///Users/divyakothari/Documents/Publii/sites/divyakotharicom/input/media/posts/20/white.svg\" alt=\"\" width=\"120\" height=\"40\"></figure></a></p>",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_1.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_1-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_2.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/21/gallery/QC_ss_2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p> </p>\n<h6>The unit converter app that you wish came pre installed on your device..</h6>\n<h6>1. Intuitive and efficient user interface.</h6>\n<h6>2. Clean and beautiful single screen user interface.</h6>\n<h6>3. Designed with all screen sizes in mind.</h6>\n<h6>4. Lightweight in size. - Dark mode.</h6>\n<p>                                         </p>\n<figure class=\"post__image\">                                                              <a href=\"https://apps.apple.com/us/app/quick-unit-convert/id1458957344?ign-itsct=apps_box_link&amp;ign-itscg=30200\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\"  src=\"https://divyakothari.com/media/posts/21/pre-order-on-black.svg\" alt=\"App store connect - Quick Convert\" width=\"121\" height=\"41\"></figure></a></p>",
             "image": "https://divyakothari.com/media/posts/21/quick-unit-convert.png",
             "author": {
                 "name": "Divya"
@@ -39,14 +55,14 @@
                    "apps"
             ],
             "date_published": "2021-05-04T15:21:07+02:00",
-            "date_modified": "2021-05-05T18:26:14+02:00"
+            "date_modified": "2021-07-06T16:18:28+02:00"
         },
         {
             "id": "https://divyakothari.com/capture-path/",
             "url": "https://divyakothari.com/capture-path/",
             "title": "Capture Path",
             "summary": " Capture Path is a simple board game for users of all&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-3.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-3-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p>Capture Path is a simple board game for users of all ages. <br><br>Capture Path is based on a classic game called Achi with a minor variations to make it more challenging and fun.<br><br>Play in one of the available 3 modes:<br><br>1. Tournament mode: Compete against different bots across many different levels. </p>\n<p>2. Quick Match mode: Play a multi game session against a challenger and see how          many games can you win.</p>\n<p>3. Two Player mode: Play offline against a friend or family member on the same device for some quality fun time.</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://divyakothari.com/media/posts/20/white.svg\" alt=\"\" width=\"120\" height=\"40\"></figure>",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-3.jpg\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/20/gallery/CP_ss-2-3-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>\n<p>Capture Path is a simple board game for users of all ages. <br><br>Capture Path is based on a classic game called Achi with a minor variations to make it more challenging and fun.<br><br>Play in one of the available 3 modes:<br><br><strong>1. Tournament mode</strong>: Compete against different bots across many different levels.</p>\n<p><strong>2. Quick Match mode</strong>: Play a multi game session against a challenger and see how many games can you win.</p>\n<p><strong>3. Two Player mode</strong>: Play offline against a friend or family member on the same device for some quality fun time.</p>\n<p> </p>\n<p><a href=\"https://apps.apple.com/us/app/capture-path-match-3/id1543767328?itsct=apps_box_badge&amp;itscg=30200\" style=\"display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;\"><img loading=\"lazy\" style=\"border-radius: 13px; width: 250px; height: 83px;\" src=\"https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1617580800&amp;h=162d5a71490a3e8a731aa2c6c51c2cad\" data-is-external-image=\"true\"  alt=\"Download on the App Store\"></a> <a href=\"https://play.google.com/store/apps/details?id=com.divyakothari.capturepath&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\" style=\"display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;\"><img loading=\"lazy\" style=\"border-radius: 13px; width: 250px; height: 83px;\" src=\"https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png\" data-is-external-image=\"true\"  alt=\"Get it on Google Play\"></a> <a href=\"https://apps.apple.com/us/app/capture-path-match-3/id1543767328?itsct=apps_box_badge&amp;itscg=30200\" style=\"display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;\"><img loading=\"lazy\" style=\"border-radius: 13px; width: 250px; height: 83px;\" src=\"https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1617580800&amp;h=0fcc06fa6490d0b1f370d898e1e28467\" data-is-external-image=\"true\"  alt=\"Download on the Mac App Store\"></a></p>",
             "image": "https://divyakothari.com/media/posts/20/capture-path-match-3.png.jpeg",
             "author": {
                 "name": "Divya"
@@ -55,7 +71,7 @@
                    "apps"
             ],
             "date_published": "2021-05-04T14:08:53+02:00",
-            "date_modified": "2021-05-05T18:25:36+02:00"
+            "date_modified": "2021-07-09T22:51:13+02:00"
         },
         {
             "id": "https://divyakothari.com/chipkali/",
@@ -159,24 +175,6 @@
             ],
             "date_published": "2017-12-18T14:16:00+01:00",
             "date_modified": "2018-10-06T14:19:37+02:00"
-        },
-        {
-            "id": "https://divyakothari.com/summer-2018/",
-            "url": "https://divyakothari.com/summer-2018/",
-            "title": "Warrior ",
-            "summary": " ",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/warrior_orig.jpg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/5/gallery/warrior_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig.jpg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/5/gallery/ril-1-on_1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/warrior-1_orig.jpg\" data-size=\"1100x619\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/5/gallery/warrior-1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig.jpg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://divyakothari.com/media/posts/5/gallery/ril-on_1_orig-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>",
-            "image": "https://divyakothari.com/media/posts/5/warrior_orig.jpg",
-            "author": {
-                "name": "Divya"
-            },
-            "tags": [
-                   "portfolio",
-                   "character",
-                   "3d-work"
-            ],
-            "date_published": "2016-05-13T00:15:00+02:00",
-            "date_modified": "2021-05-05T18:27:33+02:00"
         }
     ]
 }
