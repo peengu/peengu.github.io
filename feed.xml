@@ -3,7 +3,7 @@
     <title>Divya Kothari</title>
     <link href="https://divyakothari.com/feed.xml" rel="self" />
     <link href="https://divyakothari.com" />
-    <updated>2022-02-04T22:06:35+01:00</updated>
+    <updated>2022-02-08T22:09:10+01:00</updated>
     <author>
         <name>Divya</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://divyakothari.com/number-slide/</id>
             <category term="apps"/>
 
-        <updated>2022-02-04T22:06:35+01:00</updated>
+        <updated>2022-02-08T22:09:10+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://divyakothari.com/media/posts/25/Icon_512x512.png" alt="" />
@@ -29,8 +29,6 @@
             <![CDATA[
                     <img src="https://divyakothari.com/media/posts/25/Icon_512x512.png" alt="" />
                 <div>
-<div>
-<div>
 <div>Number Slide is a tiny puzzle game that only gets challenging with time.</div>
 <br>
 <div>Explore this wonderful little game with very familiar rules. Sit back and relax, there's no clock running. Play at your own pace. Each level unlocks a more challenging level.</div>
@@ -40,10 +38,16 @@
 <li>Simple clean graphics.</li>
 <li>No IAP</li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://divyakothari.com/media/posts/25/Android_1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://divyakothari.com/media/posts/25/responsive/Android_1-xs.png 300w ,https://divyakothari.com/media/posts/25/responsive/Android_1-sm.png 480w ,https://divyakothari.com/media/posts/25/responsive/Android_1-md.png 768w ,https://divyakothari.com/media/posts/25/responsive/Android_1-lg.png 1024w"  alt="" width="720" height="1640"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/25/gallery/1.png" data-size="800x1280"><img loading="lazy" src="https://divyakothari.com/media/posts/25/gallery/1-thumbnail.png" alt="" width="768" height="1229"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/25/gallery/2.png" data-size="800x1280"><img loading="lazy" src="https://divyakothari.com/media/posts/25/gallery/2-thumbnail.png" alt="" width="768" height="1229"></a></figure>
+<figure class="gallery__item"><a href="https://divyakothari.com/media/posts/25/gallery/4.png" data-size="800x1280"><img loading="lazy" src="https://divyakothari.com/media/posts/25/gallery/4-thumbnail.png" alt="" width="768" height="1229"></a></figure>
+</div></div>
+<p> </p>
 </div>
-</div>
-</div>
+<div><a href="https://apps.apple.com/us/app/number-slide/id1608605648?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"> <img loading="lazy" style="border-radius: 13px; width: 250px; height: 83px;" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1617580800&amp;h=162d5a71490a3e8a731aa2c6c51c2cad" data-is-external-image="true"  alt="Download on the App Store"> </a></div>
+<div><a href="https://apps.apple.com/us/app/number-slide-puzzle/id1608797659?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"> <img loading="lazy" style="border-radius: 13px; width: 250px; height: 83px;" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1617580800&amp;h=0fcc06fa6490d0b1f370d898e1e28467" data-is-external-image="true"  alt="Download on the Mac App Store"> </a></div>
+<div><div class="post__iframe"><iframe loading="lazy" width="208" height="167" frameborder="0" src="https://itch.io/embed/1389884"><a href="https://dkappsandgames.itch.io/number-slide">Number Slide by dkappsandgames</a></iframe></div></div>
             ]]>
         </content>
     </entry>
@@ -159,7 +163,7 @@
         <id>https://divyakothari.com/capture-path/</id>
             <category term="apps"/>
 
-        <updated>2021-07-09T22:51:13+02:00</updated>
+        <updated>2022-02-08T21:39:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://divyakothari.com/media/posts/20/capture-path-match-3.png.jpeg" alt="" />
