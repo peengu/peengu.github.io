@@ -3,7 +3,7 @@
     <title>Divya Kothari</title>
     <link href="https://divyakothari.com/feed.xml" rel="self" />
     <link href="https://divyakothari.com" />
-    <updated>2022-02-08T22:09:10+01:00</updated>
+    <updated>2022-02-09T18:39:26+01:00</updated>
     <author>
         <name>Divya</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://divyakothari.com/number-slide/</id>
             <category term="apps"/>
 
-        <updated>2022-02-08T22:09:10+01:00</updated>
+        <updated>2022-02-09T18:39:26+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://divyakothari.com/media/posts/25/Icon_512x512.png" alt="" />
@@ -47,7 +47,9 @@
 </div>
 <div><a href="https://apps.apple.com/us/app/number-slide/id1608605648?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"> <img loading="lazy" style="border-radius: 13px; width: 250px; height: 83px;" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1617580800&amp;h=162d5a71490a3e8a731aa2c6c51c2cad" data-is-external-image="true"  alt="Download on the App Store"> </a></div>
 <div><a href="https://apps.apple.com/us/app/number-slide-puzzle/id1608797659?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"> <img loading="lazy" style="border-radius: 13px; width: 250px; height: 83px;" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1617580800&amp;h=0fcc06fa6490d0b1f370d898e1e28467" data-is-external-image="true"  alt="Download on the Mac App Store"> </a></div>
-<div><div class="post__iframe"><iframe loading="lazy" width="208" height="167" frameborder="0" src="https://itch.io/embed/1389884"><a href="https://dkappsandgames.itch.io/number-slide">Number Slide by dkappsandgames</a></iframe></div></div>
+<div><a href="https://play.google.com/store/apps/details?id=com.divyakothari.numberslide&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img loading="lazy" style="border-radius: 13px; width: 250px; height: 83px;" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" data-is-external-image="true"  alt="Get it on Google Play"></a></div>
+<div><div class="post__iframe"><iframe loading="lazy" width="208" height="167" frameborder="0" src="https://itch.io/embed/1389884">
+  <a href="https://dkappsandgames.itch.io/number-slide"></a></iframe></div></div>
             ]]>
         </content>
     </entry>
