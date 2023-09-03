@@ -9,6 +9,8 @@
   --secondary-color: #d4c48d;
   --primary-shadow: #8b8eaf;
   --secondary-shadow: #a17a69;
+  /* --project-bg-color: #DBDDEA; */
+  --project-bg-color: #fefefe;
   --bottom-margin: 0.5rem;
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
@@ -193,9 +195,10 @@ Work Section
   background-color: var(--primary-color);
 }
 
-.project-pic {
+.work-item-pic {
   width: 60%;
   height: 60%;
+  background-color: var(--project-bg-color);
 }
 
 .work-item-body {
