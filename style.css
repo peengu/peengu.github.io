@@ -64,7 +64,6 @@ nav {
   align-items: end;
   justify-content: space-between;
   padding: 1.5rem 3.5rem;
-  box-shadow: 0 3px 5px rgba(1, 1, 1, 0.1);
 }
 
 nav a {
