@@ -308,5 +308,6 @@ footer {
   background-color: var(--bg-color);
   padding: 1.25rem;
   text-align: center;
-  margin: 2rem 0 0;
+  /* top left-right bottom */
+  margin: 6rem 0 0;  
 }
