@@ -164,7 +164,7 @@ About Section
 Work Section
  */
 .work {
-  background-color: var(--secondary-color);
+  background-color: var(--bg-color);
 }
 
 .work-title {
