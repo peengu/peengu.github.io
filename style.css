@@ -203,7 +203,7 @@ Work Section
 
 .work-item-body {
   margin-bottom: var(--bottom-margin);
-  color: var(--bg-color);
+  color: var(--text-color);
   background-color: var(--primary-color);
 }
 
