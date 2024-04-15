@@ -7,6 +7,7 @@
   --bg-color: #6B7D85;
   --primary-color: #fefefe;
   --secondary-color: #d4c48d;
+  --text-color: #39413E;
   --primary-shadow: #8b8eaf;
   --secondary-shadow: #a17a69;
   /* --project-bg-color: #DBDDEA; */
@@ -168,7 +169,7 @@ Work Section
 
 .work-title {
   text-align: center;
-  color: var(--bg-color);
+  color: var(--text-color);
   background-color: var(--primary-color);
   margin-bottom: var(--bottom-margin-2);
 }
